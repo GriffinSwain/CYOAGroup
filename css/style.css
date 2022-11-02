@@ -1,0 +1,83 @@
+body {
+    background-repeat: no-repeat;
+    background-size: cover;
+  } 
+
+.title {
+    font-size: 60px;
+    text-align: center;
+    padding-top: 20%;
+}
+
+.startButton {
+    font-size: 60px;
+    color:black;
+    outline: auto;
+    outline-color: black;
+    background-color: lightblue;
+    background-image: url('/Assets/dogbone.jpg');
+    width: 500px;
+    height: 100px;
+    vertical-align: bottom;
+    display:flex;
+    justify-content:center;
+    margin-left: 30%;
+    margin-right: 40%;
+}
+
+.pTitle{
+    font-size: 60px;
+    text-align: center;
+    background-color: lightblue;
+}
+
+.pStoryText {
+    font-size: 30px;
+    text-align: center;
+}
+
+.pPic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.pRestartButton, .pChoiceButton {
+    font-size: 30px;
+    color: black;
+    outline: auto;
+    outline-color: blue;
+    background-color: lightblue;
+    display:flex;
+    justify-content: center;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+/*
+.titlej {
+    font-size: 60px;
+    text-align: center;
+    background-color: lightblue;
+}
+.storyTextj {
+    font-size: 30px;
+    text-align: center;
+}
+.picj {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.choices {
+    font-size: 30px;
+    color: black;
+    outline: auto;
+    outline-color: blue;
+    background-color: lightblue;
+    display:flex;
+    justify-content: center;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+*/
