@@ -16,6 +16,35 @@
     margin-right: 40%;
 }
 
+.p6Title {
+    font-size: 60px;
+    text-align: center;
+    background-color: lightblue;
+}
+
+.p6StoryText {
+    font-size: 30px;
+    text-align: center;
+}
+
+.p6Pic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.p6RestartButton {
+    font-size: 30px;
+    color: black;
+    outline: auto;
+    outline-color: blue;
+    background-color: lightblue;
+    display:flex;
+    justify-content: center;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
 /*
 .titlej {
     font-size: 60px;
