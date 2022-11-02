@@ -60,15 +60,18 @@ body {
     text-align: center;
     background-color: lightblue;
 }
+
 .storyTextj {
     font-size: 30px;
     text-align: center;
 }
+
 .picj {
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
+
 .choices {
     font-size: 30px;
     color: black;
