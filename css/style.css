@@ -16,24 +16,24 @@
     margin-right: 40%;
 }
 
-.p6Title, p7Title{
+.pTitle{
     font-size: 60px;
     text-align: center;
     background-color: lightblue;
 }
 
-.p6StoryText, p7StoryText {
+.pStoryText {
     font-size: 30px;
     text-align: center;
 }
 
-.p6Pic, p7Pic {
+.pPic {
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
 
-.p6RestartButton, p7ChoiceButton {
+.pRestartButton, pChoiceButton {
     font-size: 30px;
     color: black;
     outline: auto;
