@@ -10,14 +10,18 @@ body {
 }
 
 .startButton {
-    font-size: 30px;
-    color: black;
+    font-size: 60px;
+    color:black;
     outline: auto;
-    outline-color: blue;
+    outline-color: black;
     background-color: lightblue;
+    background-image: url('/Assets/dogbone.jpg');
+    width: 500px;
+    height: 100px;
+    vertical-align: bottom;
     display:flex;
-    justify-content: center;
-    margin-left: 40%;
+    justify-content:center;
+    margin-left: 30%;
     margin-right: 40%;
 }
 
