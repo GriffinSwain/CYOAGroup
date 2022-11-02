@@ -42,12 +42,14 @@ body {
     text-align: center;
     margin-left: 10%; 
     margin-right: 10%;
+    margin-top: 2%;
 }
 
 .pPic {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    margin-top: 2%;
 }
 
 .pRestartButton, .pChoiceButton {
