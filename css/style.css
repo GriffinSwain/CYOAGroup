@@ -6,7 +6,12 @@ body {
 .title {
     font-size: 60px;
     text-align: center;
-    padding-top: 20%;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 800%;
+    margin-top: 50px;
+    margin-left: 40%;
+    color:black;
+    background-image: url('/Assets/TennisBalls.png');
 }
 
 .startButton {
@@ -21,8 +26,9 @@ body {
     vertical-align: bottom;
     display:flex;
     justify-content:center;
-    margin-left: 30%;
+    margin-left: 37%;
     margin-right: 40%;
+    margin-top: 25%;
 }
 
 .pTitle{
