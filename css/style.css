@@ -33,7 +33,7 @@
     margin-right: auto;
 }
 
-.pRestartButton, pPlayerAction {
+.pRestartButton, .pChoiceButton {
     font-size: 30px;
     color: black;
     outline: auto;
