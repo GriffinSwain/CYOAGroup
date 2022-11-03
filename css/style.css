@@ -71,6 +71,20 @@ a{
     margin: 10%;
 }
 
+.button {
+    font-size: 30px;
+    color: rgb(210, 210, 210);
+    outline: auto;
+    outline-color: rgb(128, 0, 255);
+    background-color: rgb(183, 71, 163);
+    display:flex;
+    justify-content: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
 /*
 .titlej {
     font-size: 60px;
