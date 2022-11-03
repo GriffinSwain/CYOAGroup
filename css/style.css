@@ -5,14 +5,16 @@ body {
   } 
 
 .title {
-    font-size: 60px;
-    text-align: center;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 800%;
     margin-top: 50px;
-    margin-left: 40%;
     color:black;
     background-image: url('/Assets/TennisBalls.png');
+    display: flex;
+    justify-content: center;
+    
+    margin-left: 20%;
+    margin-right: 20%;
 }
 
 .startButton {
@@ -27,8 +29,8 @@ body {
     vertical-align: bottom;
     display:flex;
     justify-content:center;
-    margin-left: 37%;
-    margin-right: 40%;
+    margin-left: auto;
+    margin-right: auto;
     margin-top: 25%;
 }
 
@@ -67,9 +69,6 @@ body {
     margin-right: 10%;
 }
 
-a{
-    margin: 10%;
-}
 
 .button {
     font-size: 30px;
