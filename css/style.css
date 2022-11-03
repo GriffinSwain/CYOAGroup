@@ -1,7 +1,7 @@
 body {
     background-repeat: no-repeat;
     background-size: cover;
-    background-color: #181a1b;
+    background-color: #2f3047;
   } 
 
 .title {
@@ -37,8 +37,8 @@ body {
 .pTitle{
     font-size: 60px;
     text-align: center;
-    background-color: hsl(272, 61%, 12%);
-    color: #7c3b98
+    background-color: hsl(236, 85%, 65%);
+    color: #bacdf6
 }
 
 .pStoryText {
@@ -72,10 +72,11 @@ body {
 
 .button {
     font-size: 30px;
-    color: rgb(210, 210, 210);
-    outline: auto;
-    outline-color: rgb(128, 0, 255);
-    background-color: rgb(183, 71, 163);
+    color: rgb(254, 185, 116);
+    border-radius: 10px;
+    border-style: solid;
+    border-color: rgb(105, 83, 52);
+    background-color: rgb(192, 112, 15);
     display:flex;
     justify-content: center;
     margin-left: 10%;
