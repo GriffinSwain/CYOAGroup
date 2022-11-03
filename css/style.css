@@ -1,6 +1,7 @@
 body {
     background-repeat: no-repeat;
     background-size: cover;
+    background-color: #181a1b;
   } 
 
 .title {
@@ -34,7 +35,8 @@ body {
 .pTitle{
     font-size: 60px;
     text-align: center;
-    background-color: lightblue;
+    background-color: hsl(272, 61%, 12%);
+    color: #7c3b98
 }
 
 .pStoryText {
@@ -43,6 +45,7 @@ body {
     margin-left: 10%; 
     margin-right: 10%;
     margin-top: 2%;
+    color: whitesmoke;
 }
 
 .pPic {
@@ -54,10 +57,10 @@ body {
 
 .pRestartButton, .pChoiceButton {
     font-size: 30px;
-    color: black;
+    color: rgb(210, 210, 210);
     outline: auto;
-    outline-color: blue;
-    background-color: lightblue;
+    outline-color: rgb(128, 0, 255);
+    background-color: rgb(183, 71, 163);
     display:flex;
     justify-content: center;
     margin-left: 10%;
